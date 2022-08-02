@@ -1,6 +1,6 @@
 # Sketching with Code
 
-Sketching with Code is a serious of tutorials on illustrating data and concepts with code.
+c is a serious of tutorials on illustrating data and concepts with code.
 
 ## Getting started
 
@@ -12,6 +12,10 @@ I will be using Sublime Text <a href='https://www.sublimetext.com/3'>https://www
 
 I will be using Mac OS X and its built-in command line terminal. If you are on Windows you will need to download a command line editor that runs bash.
 
+The idea behind sketching on HTML is very simple.
+
+1. We create a canvas
+
 ```html:
 
 <canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
@@ -19,6 +23,22 @@ I will be using Mac OS X and its built-in command line terminal. If you are on W
 
 ```
 
+2. We draw things on that canvas with simple curves and lines.
+
+
+
+```html:
+
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
+</canvas>
+
+```
+
+In the Sketching with Code series we will start by drawing very simple things and increasingly get more complicated, add animation, add text, import data, etc. until wecan visualize nearly any concept or data set with javascript and an HTML canvas.
+
+
+
+```
 
 
 
