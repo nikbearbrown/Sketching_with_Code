@@ -18,19 +18,27 @@ The idea behind sketching on HTML is very simple.
 
 ```html:
 
-<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
+<canvas id="canvas" width="333" height="222" style="border:1px solid #000000;">
 </canvas>
 
 ```
 
-2. We draw things on that canvas with simple curves and lines.
+2. We draw things on that canvas with simple curves and lines using javascript.
 
 
 
 ```html:
 
-<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
+<canvas id="canvas" width="333" height="222" style="border:1px solid #000000;">
 </canvas>
+
+<script>
+var c = document.getElementById("canvas");
+var ctx = c.getContext("2d");
+ctx.beginPath();
+ctx.arc(95, 50, 40, 0, 2 * Math.PI);
+ctx.stroke();
+</script>
 
 ```
 
