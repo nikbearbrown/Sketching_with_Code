@@ -46,7 +46,7 @@ In the Sketching with Code series we will start by drawing very simple things an
 
 ## Useful Links
 
-HTML4 Canvas  <a href='https://www.w3schools.com/html/html5_canvas.asp'>https://www.w3schools.com/html/html5_canvas.asp</a>
+HTML5 Canvas  <a href='https://www.w3schools.com/html/html5_canvas.asp'>https://www.w3schools.com/html/html5_canvas.asp</a>
 
 
 
