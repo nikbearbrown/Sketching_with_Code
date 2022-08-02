@@ -42,12 +42,6 @@ ctx.stroke();
 
 ```
 
-In the Sketching with Code series we will start by drawing very simple things and increasingly get more complicated, add animation, add text, import data, etc. until wecan visualize nearly any concept or data set with javascript and an HTML canvas.
-
-
-
-```
-
-
+In the Sketching with Code series we will start by drawing very simple things and increasingly get more complicated, add animation, add text, import data, etc. until we can visualize nearly any concept or data set with javascript and an HTML canvas.
 
 
