@@ -44,4 +44,9 @@ ctx.stroke();
 
 In the Sketching with Code series we will start by drawing very simple things and increasingly get more complicated, add animation, add text, import data, etc. until we can visualize nearly any concept or data set with javascript and an HTML canvas.
 
+## Useful Links
+
+HTML4 Canvas  <a href='https://www.w3schools.com/html/html5_canvas.asp'>https://www.w3schools.com/html/html5_canvas.asp</a>
+
+
 
