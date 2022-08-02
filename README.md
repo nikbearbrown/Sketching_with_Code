@@ -12,8 +12,12 @@ I will be using Sublime Text <a href='https://www.sublimetext.com/3'>https://www
 
 I will be using Mac OS X and its built-in command line terminal. If you are on Windows you will need to download a command line editor that runs bash.
 
+```html:
 
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
+</canvas>
 
+```
 
 
 
