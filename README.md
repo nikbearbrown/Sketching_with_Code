@@ -1,6 +1,6 @@
 # Sketching with Code
 
-c is a serious of tutorials on illustrating data and concepts with code.
+This is a serious of tutorials on illustrating data and concepts with code.
 
 ## Getting started
 
